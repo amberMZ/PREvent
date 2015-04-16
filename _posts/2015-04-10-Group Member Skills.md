@@ -5,10 +5,15 @@ title: Group Member Skills
 # Mingyu Zhang
 
 ### Software
-
+* Java, a little Python, C
+* MATLAB, Mathematica, SQL
+* Web UI programming
+* 
 ### Digital
+a little Arduino
 
 ### Analog
+almost nothing
 
 
 # Jay Feng
